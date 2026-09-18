@@ -1,4 +1,4 @@
-const CACHE = 'migraine-tracker-v1';
+const CACHE = 'migraine-tracker-v2';
 
 self.addEventListener('install', () => self.skipWaiting());
 
